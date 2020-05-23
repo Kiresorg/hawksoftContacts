@@ -1,0 +1,12 @@
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\bin\Debug\netstandard2.0\ContactsDb.deps.json
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\bin\Debug\netstandard2.0\ContactsDb.dll
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\bin\Debug\netstandard2.0\ContactsDb.pdb
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\obj\Debug\netstandard2.0\ContactsDb.csprojAssemblyReference.cache
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\obj\Debug\netstandard2.0\ContactsDb.AssemblyInfoInputs.cache
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\obj\Debug\netstandard2.0\ContactsDb.AssemblyInfo.cs
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\obj\Debug\netstandard2.0\ContactsDb.csproj.CoreCompileInputs.cache
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\obj\Debug\netstandard2.0\ContactsDb.csproj.CopyComplete
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\obj\Debug\netstandard2.0\ContactsDb.dll
+C:\Users\erikd\Documents\CodingProjects\ContactApp\ContactsDb\obj\Debug\netstandard2.0\ContactsDb.pdb

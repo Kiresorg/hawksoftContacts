@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgyuBcIf1A2r5zbawZ/qM8yjXx2o5Oo1D8AmYygHWMftKWKmscwhPHaCjbDhIZYm6Mbr8+4u78FgB/w00i4GeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erikd\\Documents\\CodingProjects\\ContactApp\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
